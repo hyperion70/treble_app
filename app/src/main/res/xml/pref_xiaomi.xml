@@ -7,6 +7,6 @@
             android:layout_height="wrap_content"
             android:defaultValue="false"
             android:key="xiaomi_double_tap_to_wake"
-            android:title="Enable DT2W" />
+            android:title="@string/enable_dt2w" />
     </PreferenceCategory>
 </PreferenceScreen>
