@@ -3,10 +3,10 @@
     <CheckBoxPreference
         android:defaultValue="false"
         android:key="key_qualcomm_alternate_mediaprofile"
-        android:title="Use alternate camera profile"
+        android:title="@string/use_alternate_camera_profile"
         android:summary="Requires reboot" />
     <CheckBoxPreference
         android:defaultValue="false"
         android:key="key_qualcomm_alternate_audiopolicy"
-        android:title="Use alternate audio policy" />
+        android:title="@string/use_alternate_audio_policy" />
 </PreferenceScreen>
