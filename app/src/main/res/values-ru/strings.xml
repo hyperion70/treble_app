@@ -5,7 +5,7 @@
     <string name="remove_telephony_subsystem">Удалить телефонную подсистему</string>
     <string name="remove_root">Удаление Root</string>
     <string name="continue_question">Продолжить?</string>
-    <string name="enable_dt2w">Вклюючить DT2W</string>
+    <string name="enable_dt2w">Включить DT2W</string>
     <string name="pocket_gesture">Использовать жест в крмане</string>
     <string name="handwave_gesture">Включить жесты рукой</string>
     <string name="misc_features">Разное</string>
