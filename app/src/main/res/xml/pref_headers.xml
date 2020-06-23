@@ -1,7 +1,13 @@
 <preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
     <header
+        android:fragment="me.phh.treble.app.MyDeviceSettingsFragment"
+        android:title="@string/my_device" />
+    <header
         android:fragment="me.phh.treble.app.OnePlusSettingsFragment"
         android:title="@string/oneplus_features" />
+    <header
+        android:fragment="me.phh.treble.app.NubiaSettingsFragment"
+        android:title="@string/nubia_features" />
     <header
         android:fragment="me.phh.treble.app.VsmartSettingsFragment"
         android:title="@string/vsmart_features" />

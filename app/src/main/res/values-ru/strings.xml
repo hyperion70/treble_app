@@ -67,4 +67,10 @@
     <string name="enable_workaround_for_whiteish_screen">Включить исправление для белого экрана</string>
     <string name="enable_workaround_for_broken_fingerprint">Включить исправление для сломанного отпечатка пальца</string>
     <string name="set_max_backlight_level">Установить градацию / максимальный уровень подсветки</string>
+    <string name="my_device">Моё устройство</string>
+    <string name="nubia_features">Настройки Nubia</string>
+    <string name="disable_hw_overlays">Отключить аппаратне наложения</string>
+    <string name="maintainer_my_device">Сопровождающий для вашего устройства</string>
+    <string name="telegram_group_my_device">Группа в телеграмм для моего устройства</string>
+    <string name="apply_presets">Применить настройки</string>
 </resources>

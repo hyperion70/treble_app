@@ -68,4 +68,10 @@
     <string name="enable_workaround_for_whiteish_screen">Enable workaround for white-ish screen</string>
     <string name="enable_workaround_for_broken_fingerprint">Enable workaround for broken fingerprint</string>
     <string name="set_max_backlight_level">Set backlight scale/max backlight level</string>
+    <string name="my_device">My device</string>
+    <string name="nubia_features">Nubia features</string>
+    <string name="disable_hw_overlays">Disable HW overlays</string>
+    <string name="maintainer_my_device">Maintainer for my device</string>
+    <string name="telegram_group_my_device">Community telegram group for my device</string>
+    <string name="apply_presets">Apply presets</string>
 </resources>
